@@ -23,9 +23,6 @@
     "tap-spec": "^5.0.0",
     "tape": "^5.2.2"
   },
-  "optionalDependencies": {
-    "phantomjs-prebuilt": "^2.1.16"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/marcbachmann/node-html-pdf.git"
